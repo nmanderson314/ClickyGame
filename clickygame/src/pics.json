@@ -1,0 +1,50 @@
+[
+    {
+        "bluth": "Anyang",
+        "image": "assets/images/Anyang-Bluth.png"
+    },
+    {
+        "bluth": "Buster",
+        "image": "assets/images/buster-bluth.jpg"
+    },
+    {
+        "bluth": "george",
+        "image": "assets/images/george-bluth-sr.jpg"
+    },
+    {
+        "bluth": "GeorgeMichael",
+        "image": "assets/images/george-michael.png"
+    },
+    {
+        "bluth": "Gob",
+        "image": "assets/images/gob-bluth.jpg"
+    },
+    {
+        "bluth": "Lindsay",
+        "image": "assets/images/lindsay-bluth.PNG"
+    },
+    {
+        "bluth": "lucille",
+        "image": "assets/images/lucille-bluth.png"
+    },
+    {
+        "bluth": "maeby",
+        "image": "assets/images/maeby-funke.jpg"
+    },
+    {
+        "bluth": "michael",
+        "image": "assets/images/michael-bluth.PNG"
+    },
+    {
+        "bluth": "oscar",
+        "image": "assets/images/oscar-bluth.png"
+    },
+    {
+        "bluth": "Lucille Two",
+        "image": "assets/images/lucille2.png"
+    },
+    {
+        "bluth": "tobias",
+        "image": "assets/images/tobias-funke.jpg"
+    }
+]
